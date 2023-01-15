@@ -5,10 +5,10 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: flex-start; 
-  font-family: 'Inter', Arial, sans-serif; 
-  color: #FFFFFF; 
-  -webkit-font-smoothing: antialiased; 
+  align-items: flex-start;
+  font-family: 'Inter', Arial, sans-serif;
+  color: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 @media (min-width: 768px) {
