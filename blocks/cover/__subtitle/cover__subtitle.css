@@ -15,8 +15,6 @@
   .cover__subtitle {
     margin-bottom: 115px;
     max-width: 335px;
-
-    /*Настройки отображения текста*/
     font-size: 18px;
     line-height: 22px;
   }

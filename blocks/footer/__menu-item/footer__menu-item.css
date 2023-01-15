@@ -9,7 +9,6 @@
   .footer__menu-item {
     padding-top: 0;
     padding-left: 18px;
-
     flex-direction: row;
     justify-content: flex-start;
     align-items: flex-start;

@@ -1,9 +1,9 @@
 .header__logo {
-  margin: 0; 
-  padding: 0; 
-  width: 142px; 
+  margin: 0;
+  padding: 0;
+  width: 142px;
   height: 42px;
-  object-fit: contain; 
+  object-fit: contain;
 }
 
 @media (min-width: 768px) {
